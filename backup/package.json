@@ -1,0 +1,11 @@
+{
+    "name": "chat-ima",
+    "version": "0.1.0",
+    "dependencies": {
+        "ent": "~0.1.0",
+        "express": "^3.3.8",
+        "mysql": ">=2.5.0",
+        "socket.io": "^1.2.1"
+    },
+    "description": "Chat socket.io"
+}
